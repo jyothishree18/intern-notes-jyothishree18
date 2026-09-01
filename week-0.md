@@ -51,3 +51,5 @@ Postman opens successfully and I am able to sign in.
 The hardest tool for me to install was Docker Desktop because I was initially
 confused about the installation and setup steps. After following
 the instructions carefully, I was able to complete the setup.
+
+Also, Git because initially I got many errors then I tried to fixed the errors
